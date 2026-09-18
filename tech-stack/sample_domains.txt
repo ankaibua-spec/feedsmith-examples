@@ -1,0 +1,14 @@
+# A few direct-to-consumer brands, for trying the example.
+allbirds.com
+gymshark.com
+skims.com
+glossier.com
+kyliecosmetics.com
+fashionnova.com
+ruggable.com
+chubbiesshorts.com
+brooklinen.com
+taylorstitch.com
+huel.com
+nomadgoods.com
+tentree.com
